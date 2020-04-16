@@ -1,0 +1,10 @@
+[package]
+name = "teaclave-sgx-sdk-edls"
+version = "0.1.0"
+authors = ["sammyne <lixiangmin01@baidu.com>"]
+edition = "2018"
+description = "EDL files added by https://github.com/apache/incubator-teaclave-sgx-sdk"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
